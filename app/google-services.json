@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641147169668",
+    "project_id": "storageass2",
+    "storage_bucket": "storageass2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641147169668:android:a5a99c0b162e71a8a4cbd1",
+        "android_client_info": {
+          "package_name": "mahmoud.naji.storageass2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641147169668-b2uoauibucsfjlo6csnrbvg6c3jd2093.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvjWr9kcy0FpwrT1vjhySEEueMdEHgqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641147169668-b2uoauibucsfjlo6csnrbvg6c3jd2093.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
